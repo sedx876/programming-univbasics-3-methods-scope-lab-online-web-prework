@@ -10,3 +10,5 @@ end
 def catch_phrase("It's-a me, Mario!") do
   puts catch_phrase
 end
+
+def toadstool
