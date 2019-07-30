@@ -6,3 +6,5 @@ end
 def toadstool
   puts status
 end
+
+def catch_phrase("It's-a me, Mario!")
