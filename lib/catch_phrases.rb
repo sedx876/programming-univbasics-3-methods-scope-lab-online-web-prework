@@ -7,4 +7,6 @@ def toadstool
   puts status
 end
 
-def catch_phrase("It's-a me, Mario!")
+def catch_phrase("It's-a me, Mario!") do
+  puts catch_phrase
+end
