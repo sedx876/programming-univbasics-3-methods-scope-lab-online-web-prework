@@ -14,3 +14,7 @@ end
 def toadstool("Thank You Mario! But Our Princess Is In Another Castle!") do
   puts toadstool
 end
+
+def link("It's Dangerous To Go Alone! Take This.") do
+  puts link 
+end
